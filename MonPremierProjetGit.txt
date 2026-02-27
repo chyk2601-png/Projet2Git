@@ -1,2 +1,0 @@
-Hello my name is Cherifa YAKER
-Bonjour c'est mon premier jour Git
